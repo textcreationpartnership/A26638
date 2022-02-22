@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>False prophets and false teachers described, 1652</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26638</idno>
+            <idno type="STC">Wing A894BA</idno>
+            <idno type="STC">ESTC R22761</idno>
+            <idno type="EEBO-CITATION">12490653</idno>
+            <idno type="OCLC">ocm 12490653</idno>
+            <idno type="VID">62366</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62366)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 302:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>False prophets and false teachers described, 1652</title>
+                  <author>Aldam, Thomas, d. 1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Thomas Aldam, Flizabeth [sic] Mooten, William Pears, Benjamin Nichalson, Jane Holmes, and Mary Fisher, "Prisoners of the Lord at York Castle."</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of original in Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:62366:1"/>
+            <pb n="1" facs="tcp:62366:1" rendition="simple:additions"/>
+            <head>Falſe Prophets and falſe Teachers deſcribed. <hi>1652.</hi>
+            </head>
+            <p>ALL the holy men of God they ſpoke forth freely, and when any ſpoke for Hire, it was a filthie and a horrible thing, and the Lord did abhor it, and ſent forth his true Prophets to crie out againſt them. <hi>Iſaiah</hi> 55.1, 2, 3. <hi>Iſaiah</hi> ſpoke freely, and he was ſent to crie out againſt them that did not ſpeak forth freely without Hire, <hi>Iſa.</hi> 56.10, 11, 12. <hi>His watchmen</hi> (ſaith he) <hi>are blinde and cannot ſee, they are dumb doggs, yea greedy doggs that can never have enough, every one looks for his gain from his quarter:</hi> They did ſo then, and do they not ſo now? every one looks for his gain from his Quarter where he is, and for great Means, (thoſe that have eyes to ſee, may ſee) and the Lord abhorrs it. <hi>Ieremiah</hi> he ſpoke freely, and was ſent to crie out againſt them that did it for Hire, <hi>Jerem</hi> 5. <hi>A horrible and a filthie thing is committed in the Land, the Prophets propheſie falſe things, and the Prieſts bear rule by their Means, and the people love to have it ſo.</hi> It was ſo then, but is it not ſo now? do not the Prieſts bear rule by their Means over you, and do not you love to have it ſo? O fooliſh people, that have eyes to ſee and cannot ſee, ears to hear and cannot hear, hearts and cannot underſtand; but what will you do in the end, ſaith the Lord? All people ſee if you hold not up this filthie thing which God ſent his true Pro<g ref="char:EOLhyphen"/>phets to crie againſt. <hi>Ezechiel</hi> he ſpoke freely, and ſpoke againſt them that ſpoke for the Fleece; ſee <hi>Chap.</hi> 34. ſee if your Shep<g ref="char:EOLhyphen"/>herds do not teach for the Fleece? <hi>But</hi> (ſaith the Lord) <hi>I will take them out of their hands, they ſhall no more be meat for them, neither ſhall they feed themſelves any more of the Flock, but</hi> (ſaith
+<pb n="2" facs="tcp:62366:2"/>the Lord) <hi>I will take them out of their Hands, and I will feed them my ſelf, and be their Teachers.</hi> Now the Lord is comming to teach all his freely, and there is no Teacher like him, and they that are taught of the Lord deny all teaching without; if you would be taught of the Lord, ceaſe from your Hirelings. <hi>Micah</hi> ſpoke freely, and was ſent to cry againſt them that did not; <hi>Chapter</hi> 3. ſaith he, <hi>The Prophets divine for money, and the Prieſts preach for Hire, and they lean upon the Lord, and ſay, Is not the Lord amongst us?</hi> They did ſo then, and do they not ſo now? But (ſaith the Lord) <hi>they ran but I did not ſend them, therefore they ſhall not profit this people at all.</hi> See <hi>Jeremiah</hi> 23. the Lord will not have his gifts to be bought and ſold; they are worſe then <hi>Simon Magus,</hi> for he would have bought the Spirit, but theſe Buy and Sell the Letter for carnall ends, and acts (as in Stage-Playes) for money; but the Lord abhorrs it, therefore hold it not up. <hi>Hoſea</hi> 6.9. he ſpoke freely, and ſpoke againſt them then, and ſaid, <hi>As a troop of Robbers wait for a man, ſo the company of Prieſts they murther in the way by conſent. Micah</hi> ſaith in the 3. Chapter, <hi>Put into their mouthes and they cry peace, peace; but if you put not into their mouthes, they prepare warr againſt you.</hi> Try your Prieſts, and let the Scriptures be ſulfilled, ſee if they will not go to Law with you? and if they doe, you ſhall ſee that they were never taught of Chriſt; for (he ſaith) <hi>if any man ſue thee at the Law, and take away thy Coat, let him have thy Cloak alſo,</hi> Now if they were ſent of Chriſt, they would abide in his Doctrine, <hi>for he that abideth not in the doctrine of Chriſt, is a Devid,</hi> Matth. 5.40. and Chriſt when he ſent forth his, he bad them take neither Bagg nor Scrip, but (ſaith he) <hi>freely ye have received, freely give;</hi> and if they were taught of him, they would obey him and keep his ſay<g ref="char:EOLhyphen"/>ings: but thoſe that buy their Wares, they muſt either ſet them forth at a greater rate, or elſe loſe by them, and then they would loſe their Maſterie which they have got by their Learning, and their M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. All the Teachers of the world they are Maſters by their Learning and their Benefits; thoſe that were taught of Je<g ref="char:EOLhyphen"/>ſus
+<pb n="3" facs="tcp:62366:2"/>Chriſt, they were not ſo; ſee <hi>Mat.</hi> 23. but he taught them to deny it, and they abode in his Doctrine. You do not read in all the Holy Scriptures, that any of the Holy men of God were <hi>Cambridge</hi> or <hi>Oxford</hi> Schollers, or Univerſitie men, or called Ma<g ref="char:EOLhyphen"/>ſters; but (on the contrary) they were plain men, and laboured with their hands, and taught freely, as they had received it freely from the Lord,: read the Scriptures, and you may ſee what ſort of men they were which taught the People; <hi>Abe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> he was a Shepheard, <hi>Gen.</hi> 4.2. <hi>Jacob</hi> a Keeper of Sheep, <hi>Gen.</hi> 30.31. <hi>Moſes</hi> a Shepheard, <hi>Exodus</hi> 3.1. <hi>Eliſha</hi> a Ploughman, 1 <hi>King.</hi> 19.19, 20. <hi>Amos</hi> a Herds-man, <hi>Amos</hi> 7.4. <hi>Paul</hi> a Tentmaker, <hi>Acts</hi> 18.3. <hi>Simon</hi> and <hi>Andrew</hi> were Fiſhermen, <hi>Mark</hi> 1.16. <hi>Matthew</hi> was taken from the receipt of Cuſtome, <hi>Mark</hi> 2.14. they were not wiſe and learned men, as the Scribes and Phariſees were, which Chriſt cried wo againſt; (ſaith he) <hi>Wo to you Scribes and Phariſees, hypocrites, ye binde heavie burthens, and grievous to be born, and lay them upon the poor, and your ſelves will not touch them with one of your fingers.</hi> You may ſay, the Scribes and Phariſees did ſo, who were the enemies of Jeſus Chriſt; but do not the Prieſts ſo now? is not the poor burthened by them, and oppreſſed by them, and they are Rulers and Lords over them? Do they not ſit in the ſame Seats that the Scribes and Phariſees had? they had the chief<g ref="char:EOLhyphen"/>eſt places in Aſſemblies, have not your Prieſts ſo now? they had the uppermoſt rooms at Feaſts, have not your Prieſts ſo now? they went in long Robes, do not your Prieſts ſo? they were called of men Maſters, are not your Prieſts ſo now, do not they hold the ſame things that they did, and yet ſay they are ſent of Chriſt? they are worſe then the Scribes and Phariſees, for they ſat in <hi>Moſes</hi> Seat, pretending to do juſtice, but did not: for <hi>Moſes</hi> was a juſt and faithfull ſervant, ſet over the people, a man fearing God, and hating covetouſneſſe; but they were covetous and laid heavie burthens upon the people, and were Maſters whereas <hi>Moſes</hi> was but a ſervant. And Jeſus Chriſt himſelf ſaid, <hi>VVo unto you Scribes and Phariſees, and Hypocrites.</hi> They knew
+<pb n="4" facs="tcp:62366:3"/>much, and ſaid fair, but they did not act accordingly; their words and works were not one, therefore it was Hypocriſie; and it is the ſame now that it was then, with thoſe that ſay one thing and do another: it is not the hearers but the doers that ſhall be juſti<g ref="char:EOLhyphen"/>fied. Now Chriſt is come to ſet free from theſe heavie burthens, and to eaſe the people of them; his Miniſtery is free and not bur<g ref="char:EOLhyphen"/>thenſome; thoſe that are ſent of him, are to be as be was; but the Prieſts that profeſſe to be ſent of him are not ſo, they are got in<g ref="char:EOLhyphen"/>to a Seat above the Scribes and Phariſees; they ſit but in <hi>Moſes</hi> Seat, pretending to do juſtice, but they did not as they ſaid; ſo the profeſſed Miniſters are got up in the Seat of Chriſt, to take off oppreſſion, but they are Oppreſſors; for the Miniſtery of Chriſt is <hi>to feed the hungry, and to cloath the naked, and let the oppreſſed go free,</hi> and to throw down thoſe abominations which the Lord hath ſent his true Prophets to crie out againſt, as Pride and covetouſneſſe, and drunkenneſſe, and lying, and ſwear<g ref="char:EOLhyphen"/>ing, and oppreſſion; but it is held up and contended for by them; for they are the Kings of Pride in Towns where they are, and their Wives go in their Hoods, Vails, and Rings, which are odious to the Lord, and poor people are burthened by them; in<g ref="char:EOLunhyphen"/>ſtead of ſetting free they keep in bondage. Where is the hungry fed by them? Where is the naked cloathed? Where is the op<g ref="char:EOLhyphen"/>preſſed ſet free? Chriſt ſaith unto his, <hi>Be not ye called Ma<g ref="char:EOLhyphen"/>ſters,</hi> but they do not obey him, that profeſſeth to be ſent of him; and Chriſt is the ſame yeſterday, to day, and for ever. Jeſus Chriſt ſaid there ſhould come ſalſe Prophets in Sheeps cloa<g ref="char:EOLhyphen"/>thing, but (ſaith he) <hi>inwardly they are ravening Wolves;</hi> making fair ſhews, and profeſſing God and Chriſt in words, but in w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rks deny him; having fine words, fair pretences, green and flouriſhing in profeſſion, high in Notion, having a form of godlineſſe in words, but deny it in life and converſation; inwardly <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey are r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vening Wolves, full of wrath, anger, and envy, and ma<g ref="char:EOLhyphen"/>liciouſneſſe, pride and covetouſneſſe; but (ſaith Jeſus Chriſt) <hi>By their fruits ye ſhall know them:</hi> for every Tree is known by its
+<pb n="5" facs="tcp:62366:3"/>fruits: and (ſaith he) <hi>They will ſay and do not.</hi> See what <hi>Paul</hi> ſpeaketh in 2 <hi>Timoth.</hi> 3. <hi>verſ.</hi> 1, 2, 3, 4.5, 6. he ſeeing falſe Teachers going forth, gave a deſcription how they might be knowne; <hi>Of this ſort are they</hi> (ſaith he) <hi>proud, covetous, ſelf-lovers, boaſt<g ref="char:EOLhyphen"/>ers, heady, high-minded, railers, falſe-accuſers, incontinent, fierce, deſpiſers of thoſe which are good, lovers of pleaſures more then lovers of God; having a form of godlineſſe, but denying the power thereof; from ſuch turn away.</hi> Firſt look at the Trees, and then at the fruits, and ſee if this ſort of men be not ſuch now, and have been ſo a long time; but the Lord is riſen in the hearts of the people, and hath opened their eyes that were blinde, and cauſes them to ſee clearly, and bids them let their light ſhine forth to others that ſit in darkneſſe. But he is comming to take away the Vail that is ſpread over all Nations, and then ſhall they ſee clearly; but thoſe that have eyes may ſee, that this ſort of men preach now, and that for Hire, which is contrary to the Doctrine of Chriſt. Do not proud men preach? Do not covetous men preach? Do not ſelf-lovers preach? Do not heady high-minded men preach? Do not railing men Preach? Do not falſe-accuſing men Preach? Do not men that are deſpiſers of thoſe that are good Preach? Do not men that live in pleaſures Preach? and all thoſe ſorts of men Preach, and Hirelings too, oppreſſing and burthening the Creati<g ref="char:EOLhyphen"/>on? Thoſe that have eyes may plainly ſee, that theſe were never ſent of God; the Miniſters of Chriſt were what they ſpoke, they walked anſwerable to their Miniſtery, that it might not be blamed; and that the Miniſtery of Chriſt might not be burdenſom, they walked as Examples to others. Can a proud man lead off from pride? he may ſpeak againſt it, but if he ſpeak againſt it and live in it, he is an Hypocrite. Can a covetous man lead off from covetouſneſſe, or can a drunken man lead off from Drun<g ref="char:EOLhyphen"/>kenneſſe? or can a malicious man lead off from maliciouſneſſe? Can an Oppreſſor lead off from oppreſſion? Can a man that fol<g ref="char:EOLhyphen"/>lows pleaſures lead off from pleaſures and wantonneſſe? or a man that follows the wayes of unrighteouſneſſe, can he lead off
+<pb n="6" facs="tcp:62366:4"/>from them, he may ſpeak againſt them, but if he ſpeak againſt them, and live in them, or any of them, he is an Hypocrite, and one that Jeſus Chriſts ſpeaketh of, that ſayes and does not, and ſo is an evill example, a pattern to follow the wayes of ungodli<g ref="char:EOLhyphen"/>neſſe. The Miniſters of Jeſus Chriſt were examples for others to walk by, ſee <hi>Titus</hi> 1. <hi>They were blameleſſe as they Stewards, of God, not ſelf-willed, not ſoon angry, not given to wine; no ſtrikers, not gi<g ref="char:EOLhyphen"/>ven to fifthy lucre:</hi> where is your example among all your profeſt Miniſters? they were lovers of hoſpitalitie, they were lovers of good men, they were holy, they were juſt, they were tem<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rate: where is your example? they were what they ſpoke. <hi>Paul</hi> laboured night and day that he might not make the Goſpel of Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt burthenſome, but (on the contrary) that he might be an example to them that followed him: where is your example? See what <hi>Paul</hi> ſaith to the <hi>Theſſalonians,</hi> ſaith he in 2 <hi>Theſſ.</hi> 3.7, 8. he was an example, and not he, but the reſt alſo, and the people were taught by their godly converſation to walk accordingly; for (ſaith he) <hi>your ſelves know ye ought to follow us, for we behaved not our ſelves diſorderly among you, neither did we eat any mans bread for nought, but wrought with labour and travell night and day, that we might not be chargeable to any, but to make our ſelves examples unto th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m that follow us:</hi> where is your example? ſee 1 <hi>Theſ.</hi> 2.5. <hi>for</hi> (ſaith he) <hi>we uſe not flattering words, as ye know</hi> (he called them to witneſſe it) <hi>neither a cloak of covetouſneſſe, God is witneſſe:</hi> they were ſo free from covetouſneſſe, that they called God to witneſſe it, who ſearches the Hearts: Nor of men ſought they glory, neither of them, the <hi>Theſſalonians,</hi> nor of others, when they might have been burthenſome; but were willing not onely to impart the Goſpell of Chriſt unto them, but their own ſouls alſo, they were ſo dear unto them: <hi>Verſe</hi> 9. The love of God is ſo where it is made manifeſt in realitie. They laboured night and day, becauſe they would not be chargeable to any of them, and preached the Goſpell freely, as they had received
+<pb n="7" facs="tcp:62366:4"/>it from the Lord, <hi>Ye are witneſſes, and God alſo</hi> (ſay they) <hi>how holily, and juſtly, and unblamedly we behaved our ſelves among you.</hi> Where is your example, for freeneſſe, for holineſſe, for blame<g ref="char:EOLhyphen"/>leſneſſe? and they both exhorted and comforted them, as a Fa<g ref="char:EOLhyphen"/>ther his Children. The Miniſters of Chriſt did ſo; but the Mi<g ref="char:EOLhyphen"/>niſters of the world they are without among the falſe Prophets, all Preaching for Hire, and making the Goſpell of Chriſt burdenſom, which is contrary to Jeſus Chriſt. He that ſaith he is in Chriſt, ought to walk as he walked; did ever he Preach for Money, or did he give forth command for his to take Hire? how dare any of you Hirelings ſay you are ſent of Chriſt? did he ſay one thing and do another? was he not what he ſpoke in all things? were not his Miniſters examples for others to walk by, and exhorted o<g ref="char:EOLhyphen"/>thers to minde their converſation: ſaith <hi>Paul, Be ye followers of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e as dear Children, even as I am a followor of Chriſt;</hi> and Chriſt ſaith, <hi>Learn of me for I am meek and lowly in heart.</hi> Now thoſe that were his true Miniſters they followed his example, and they exhorted others to follow them; and he that is taught of Chriſt now, abideth in his Doctrine, but he that abideth not in the Do<g ref="char:EOLhyphen"/>ctrine of Chriſt, is a Devill; and he that ſaith he is in Chriſt, ought to walk as he walked, in all holy converſation. Then you that p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ofeſſe your ſelves to be his Miniſters, and to be ſent forth from him, where did you receive a Commiſſion of him to be taskma<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs? or to take Hire, or to be proud, or covetous, or to live in p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſures, or to live in Hypocriſie, to ſay that you are not. They <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t were ſent forth by him, were ſent freely, and to undo the heavie bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dens, and to be examples for others to walk by. Where did you receive your Maſterie? Chriſt ſaith, <hi>Let him that is greateſt among yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be your ſervant, and Chriſt is the ſame yeſterday, to day, and for ever.</hi> Where did Chriſt make uſe of outward means to back him? but he denied it, and was perſecuted by it? Where did he envie, and ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and oppreſſe any? Walk according to him if you be ſent of h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and do not perſecute, and hate, and envie, and go to Law, fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neither he nor his did; and if you be ſent of him, make proof
+<pb n="8" facs="tcp:62366:5"/>of your Miniſterie, as they did that he ſent forth, and cauſe not the Goſpell of Chriſt to be burdenſome and blamed by you. The true Miniſters gave no occaſion of offence in any thing, that their Miniſterie ſhould not be blamed, ſee 2 <hi>Cor.</hi> 6. <hi>verſ.</hi> 3, 4, 5, 6, 7, 8, 9.10. <hi>But in all things approved themſelves as the Miniſters of God, in much patience, in afflictions, in neceſsities, in diſtreſſes, in ſtripes, in priſons, in tumults, in labours, by watchings, by faſtings, by puritie, by knowledge, by long ſuffering, by kindneſſe, by the Holy G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſt, by love unfeigned, by the Word of truth, by the Power of God, by the armour of righteouſneſſe, on the left hand and on the right, by honour and diſ<g ref="char:EOLhyphen"/>honour, by evill report and good report, as deceivers, and yet true, as unknown, and yet well known, as dying and behold we live, as chaſtened and not killed, as ſorrowfull yet alway rejoycing, as poor and yet making many rich, as having nothing and yet poſſeſsing all things.</hi> See where ſuch examples as theſe are to be found now amongſt your profeſſed Miniſterie? His Miniſters were perſecuted of the world, be<g ref="char:EOLhyphen"/>cauſe they were to declare againſt the vanitie of the world: but the Miniſters that the world ſets up, live in the vanitie of the world, and are perſecutors, vain, light and prophane in their lives and converſations, and ſo are patterns of ungodlineſſe, walk<g ref="char:EOLhyphen"/>ing on in Hypocriſie, and perſecuting the Saints of the moſt h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh God, whom the Lord hath redeemed from the vain converſat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on of the world: His Miniſters were never perſecutors. <hi>VVo to he Idol-Shepheards, wo unto them, for they have gone in the way of</hi> Can, <hi>and have runn greed<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> after the errour of</hi> Balaam, <hi>for reward, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> periſhed in the gain<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing;</hi> and ſo ſhall them, except they rep<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Thomas Aldam</item>
+                     <item>Eliſabeth Hooton</item>
+                     <item>William Pears</item>
+                     <item>Benjamin Nichalſon</item>
+                     <item>Jane Holmes and</item>
+                     <item>Mary Fiſher.</item>
+                  </list>
+               </signed>
+               <dateline>
+                  <hi>Priſoners of the Lord at</hi> York <hi>Caſtle.</hi> 
+                  <date>1652.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:62366:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
